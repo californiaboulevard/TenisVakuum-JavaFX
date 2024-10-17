@@ -1,0 +1,14 @@
+target/
+.mvn
+*.iws
+*.iml
+*.ipr
+.idea
+*.class
+*.log
+*.swp
+*.tmp
+/out/
+mvnw
+mvnw.cmd
+dependency-reduced-pom.xml

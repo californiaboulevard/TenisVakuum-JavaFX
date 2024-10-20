@@ -3,7 +3,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane prefHeight="564.0" prefWidth="685.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vysoka.tenis_vakuum.HelloController">
+<AnchorPane prefHeight="564.0" prefWidth="685.0" xmlns="http://javafx.com/javafx/17.0.6" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vysoka.tenis_vakuum.HelloController">
 
     <Button fx:id="button" layoutX="185.0" layoutY="47.0" mnemonicParsing="false" onAction="#action" prefHeight="25.0" prefWidth="39.0" text="OK" />
    <Label fx:id="label1" layoutX="299.0" layoutY="39.0" prefHeight="17.0" prefWidth="316.0" text="vysledna x-suradnica:" />

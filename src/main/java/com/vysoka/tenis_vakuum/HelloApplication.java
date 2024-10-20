@@ -18,8 +18,6 @@ public class HelloApplication extends Application {
         stage.setTitle("Tenis vo vakuu");
         stage.show();
 
-
-
     }
 
     public static void main(String[] args) {

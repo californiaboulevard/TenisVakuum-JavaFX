@@ -84,7 +84,7 @@ public class HelloController {
             label3.setText("lopticka sa dotkla zeme!");
         } else if (z < 0.0) {
             label3.setText("");
-            label3.setText("lopticka presla zemou");
+            label3.setText("lopticka uz presla zemou!");
         } else if (z > 0.0) {
             label3.setText("");
         }
